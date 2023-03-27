@@ -10,6 +10,7 @@
     <link rel="icon" href="rubik.ico">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script defer src="js/bootstrap.bundle.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.js"></script>
     <script defer src="js/index.js"></script>
 </head>
 <body>
